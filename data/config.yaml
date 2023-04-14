@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Kunal Mishra
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
@@ -18,12 +18,11 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  I'm Kunal. I'm 17 and I spend most of my day studying for engineering entrance exams. I used to make little SaaS projects (and can't wait to resume!) which are still live at socialscribe.xyz and twift.xyz. 
 page_title:
-  "🪴 Quartz 3.3"
+  "Kunal Mishra."
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/knlmsh
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/kunalm2345
