@@ -27,8 +27,8 @@
   --highlighted: #574010;
 }
 
-@import url('https://api.fontshare.com/css?f[]=switzer@400,500,600,700&display=swap');
+@import url('hhttps://api.fontshare.com/v2/css?f[]=switzer@2,1&display=swap');
 
 * {
-  font-family: Switzer !important;
+  font-family: 'Switzer', sans-serif;
 }
