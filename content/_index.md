@@ -1,27 +1,15 @@
 ---
-title: 🪴 Quartz 3.3
-enableToc: false
+title: Kunal Mishra
 ---
+I'm 17. Studying 12th grade, mostly [[preparing for JEE and BITSAT]] and spending nights and weekends building Socialscribe.
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+My side projects for now:
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+- **[Twift](/twift)**: Those "reply with an emoji" giveaways are one of the best ways to launch something on Twitter. And Twift just makes running them a lot easier. 
+- **[Socialscribe](/socialscribe)**: Socialscribe is a no-code way to add "subscribe w/ Twitter" button to your newsletter's landing page. So someone can click on a button and subscribe in 1-click, without typing their whole email.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+I also [read books](/books) and [articles](https://getpocket.com/@knl), admire good [typography](/type), [code](https://github.com/kunalm2345) (mainly in Python, but also learning JavaScript), explore new apps and tools, sometimes [tweet](https://twitter.com/knlmsh), geek over my Roam setup, spend a lot of time making up words and checking if their domains are available, and more.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+[(notes on this site's design)](/meta)
 
